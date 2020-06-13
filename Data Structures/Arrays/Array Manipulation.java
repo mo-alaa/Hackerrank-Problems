@@ -41,4 +41,6 @@ by default the array will be like this
 [100,    0,  -100,     0,    0] we added 100 at [1-1] and -100 at [2] because 2 <arr lenght
 [100,  100,  -100,     0,    0] we added 100 at [2-1] and we didnt add -100 because 5 is not less than the arr length
 [100,  100,     0,     0, -100] we added 100 at [3-1] and we -100 at [4] because 4 <arr lenght
+
+now we should take the maxium sum for that array [100,100,0,0,-100] which is 200
  */
