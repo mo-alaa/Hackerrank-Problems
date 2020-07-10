@@ -12,3 +12,7 @@ Problem:    https://www.hackerrank.com/challenges/print-the-elements-of-a-linked
         reversePrint(head.next); 
         Console.WriteLine(head.data);
     }
+/*
+I recommend watching this video by mycodeschool: 
+https://www.youtube.com/watch?v=K7J3nCeRC80&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=10
+*/
